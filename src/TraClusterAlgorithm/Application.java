@@ -452,7 +452,8 @@ public class Application extends JFrame {
 
         filePathTextField = new JTextField();
         //filePathTextField.setText("C:\\FILES\\Matlab and C++\\GeoDATA\\TrajectoryData");
-        filePathTextField.setText("C:\\FILES\\Matlab and C++\\GeoDATA\\TrajectoryData\\deer_1995.tra");
+        //filePathTextField.setText("C:\\FILES\\Matlab and C++\\GeoDATA\\TrajectoryData\\deer_1995.tra");
+        filePathTextField.setText("C:\\");
         constraints = new GridBagConstraints();
         constraints.gridx = 1;
         constraints.gridy = 1;
